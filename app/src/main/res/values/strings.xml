@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Texts</string>
+    <string name="some">Some</string>
+    <string-array name="texts">
+        <item>@string/some</item>
+        <item>body</item>
+        <item>once</item>
+        <item>told</item>
+        <item>me</item>
+        <item>the</item>
+        <item>world</item>
+        <item>is</item>
+        <item>gonna</item>
+        <item>roll</item>
+        <item>me</item>
+    </string-array>
+    <string name="nameStar">%1$s is a Smashmouth fan </string>
+    <string name="name_format">Hello, %1$s</string>
+    <string name="name">What is your name?</string>
+</resources>
